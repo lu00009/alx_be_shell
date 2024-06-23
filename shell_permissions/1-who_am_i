@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#prints effective user of who am i
+whoami
